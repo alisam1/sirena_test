@@ -1,9 +1,6 @@
 ## get it up and running.
 
 ``` bash
-# go into the project
-cd VueJS-Autocomplete
-
 # install dependencies
 npm install
 
